@@ -6,7 +6,7 @@ if userChoice.lower() == "rock":
     print("You have chosen rock!")
 elif userChoice.lower() == "paper":
     print("You have chosen paper!")
-elif userChoice.lower() == "scissors"
+elif userChoice.lower() == "scissors":
     print("you have chosen scissors!")
 else:
     print("Your choice makes no sense")
